@@ -94,3 +94,8 @@ other code changes needed for new content.
 Ideas for going further: swap `localStorage` for a real backend + auth,
 add a timer/scoring multiplier to case files, add a "daily challenge," or
 add difficulty-based unlock gating.
+
+## Contributors
+
+Pratyush Chandra Das: https://github.com/Pratyush415
+Pritam Acharya: https://github.com/Priproking-444pritam
